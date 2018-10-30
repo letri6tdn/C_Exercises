@@ -1,0 +1,1 @@
+the bug in the algorithm happens when all digit we entered are zeroes. The 12nd digit (check digit) would equal 10, that contains 2 digits.
