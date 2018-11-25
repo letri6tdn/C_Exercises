@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1541785001 source:c:\users\oscar nguyen\desktop\compsci\201\lab6\qsort\main.c
+	<stdio.h>
+	"quicksort.h"
+
+1541785001 c:\users\oscar nguyen\desktop\compsci\201\lab6\qsort\quicksort.h
+
+1541785001 source:c:\users\oscar nguyen\desktop\compsci\201\lab6\qsort\quicksort.c
+	"quicksort.h"
+

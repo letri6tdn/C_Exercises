@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541793385 source:c:\users\oscar nguyen\desktop\compsci\201\lab6\project6chap10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"stack.h"
+
+1541792046 c:\users\oscar nguyen\desktop\compsci\201\lab6\project6chap10\stack.h
+
+1541793208 source:c:\users\oscar nguyen\desktop\compsci\201\lab6\project6chap10\stack.c
+	<stdbool.h>
+	"stack.h"
+
